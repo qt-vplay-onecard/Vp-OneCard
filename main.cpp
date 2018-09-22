@@ -2,6 +2,9 @@
 #include <VPApplication>
 #include <QQmlApplicationEngine>
 #include <QtQml>
+#include "client.h"
+#include "server.h"
+#include "player.h"
 
 int main(int argc, char *argv[])
 {
